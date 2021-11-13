@@ -1,0 +1,44 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  text: |
+    if __name__ == "__main__":
+        # Write your solution here
+        pass
+  learner_created: false
+- name: __init__.py
+  visible: false
+  learner_created: false
+- name: a.py
+  visible: true
+  learner_created: true
+- name: b.py
+  visible: true
+  learner_created: true
+- name: f6.py
+  visible: true
+  learner_created: true
+- name: c.py
+  visible: true
+  learner_created: true
+- name: d.py
+  visible: true
+  learner_created: true
+- name: e.py
+  visible: true
+  learner_created: true
+- name: g7.py
+  visible: true
+  learner_created: true
+- name: 8.py
+  visible: true
+  learner_created: true
+- name: 9.py
+  visible: true
+  learner_created: true
+status: Solved
+feedback:
+  time: Fri, 05 Nov 2021 16:23:10 UTC
+record: -1
+post_submission_on_open: true
